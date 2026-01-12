@@ -1,4 +1,4 @@
-# DIAL AI Chat Completion Task
+#  DIAL AI Chat Completion Task
 
 A Python implementation task for building a chat application using DIAL API with both synchronous and streaming completions.
 
